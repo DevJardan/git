@@ -1,2 +1,6 @@
-const test = "fucionou"
-const test2 = "nova alteração" 
+const product = 2.00 
+const card = 2.00
+
+function test() {
+
+}
